@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+nav{
+    width: 20%;
+    border: 1px solid gray;
+}
+nav header{
+    text-align: center;
+    font-size: 30px;
+    margin: 10px 0;
+}
+nav li{
+    border-top: 1px solid black;
+    padding: 10px;
+}
+nav a{
+    margin: 10px;
+    color: rgb(85, 84, 84);
+    text-decoration: none;
+
+}
